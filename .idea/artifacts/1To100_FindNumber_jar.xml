@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="1To100_FindNumber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/1To100_FindNumber_jar</output-path>
+    <root id="archive" name="1To100_FindNumber.jar">
+      <element id="module-output" name="1To100_FindNumber" />
+    </root>
+  </artifact>
+</component>
